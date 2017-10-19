@@ -13,3 +13,5 @@ cambio para master
 caracteristica 2
 ramita 1
 caracteristica2 cambios
+
+--> cambios para feature2
