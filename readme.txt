@@ -1,6 +1,7 @@
 hola git
 hola de nuevo
 nuevo nuevo cambio para un bug
+reorg ...
 liliili
 
 es un nuevo conocimiento interesante
